@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+nav {
+  width: 100%;
+  height: 110px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container {
+  width: 1240px;
+  height: 50px;
+  padding: 0 50px;
+  display: flex;
+  justify-content: space-between;
+}
+.nav {
+  width: 600px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: rgb(56, 53, 53);
+}
+button {
+  width: 125px;
+  height: 50px;
+  background-color: rgb(41, 39, 39);
+  color: white;
+  border-radius: 8px;
+}
+.containerhero {
+  max-width: 1150px;
+  margin: 0 auto;
+}
+.aboutme {
+  width: 700px;
+  height: 200px;
+  margin: 70px auto;
+}
+
